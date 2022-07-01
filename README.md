@@ -1,4 +1,7 @@
-Hi 👋 My name is Seher ======================  Backend Developer -----------------
+Hi 👋 My name is Seher 
+
+Backend Developer 
+-----------------
 
 <a href="https://www.github.com/sehery0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/sehery0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
